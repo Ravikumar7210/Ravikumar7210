@@ -1,6 +1,8 @@
 ### Hi there 👋
-I am a front-end web developer  
-🤔 I’m looking for a job 
+I am a front-end web developer 
+
+Graduated from bvcoe delhi
+
 
 <!--
 **Ravikumar7210/Ravikumar7210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
