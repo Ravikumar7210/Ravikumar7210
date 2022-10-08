@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a front-end web developer 
+I am a Front-end web Developer and Content Creator.
 
 ### 🛠 &nbsp;Tech Stack
 
