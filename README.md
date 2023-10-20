@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 <br/>
 &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikumar7210&theme=radical)
+
+<br/>
+
+<img src="https://github.com/ayush2390/banner/blob/main/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863-removebg-p.png" alt="dinotocat" style="float: left; margin-left: 10px;" width="450px" />
