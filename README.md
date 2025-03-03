@@ -13,7 +13,7 @@ I am a Frontend Developer, Developer Advocate, and a Technical Writer. Creating 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-Graduated from bvcoe delhi
+Graduated from BVCOE (GGSIPU) Delhi
 
 ## 🚀 Languages and Tools:
 
